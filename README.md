@@ -25,11 +25,10 @@ Currently, I'm expanding my expertise into the world of **DevOps** and **Cloud C
 
 ## 🌟 Projects:
 
-### 🔥 **[Project 1: DevOps Pipeline Automation](#)**
-A comprehensive DevOps pipeline that integrates Jenkins, Docker, and Kubernetes to automate the build, test, and deployment of a Python-based web app.
+### 🤖 **[Project 1: Telegram Chatbot](#)**
+A custom chatbot built for Telegram using **Python** and the **python-telegram-bot** library. The bot can handle user queries, provide automated responses, and integrate with external APIs for real-time data retrieval. Deployed using Docker and orchestrated through Jenkins for continuous updates.
 
-### 🌐 **[Project 2: Django E-commerce Site](#)**
-An e-commerce platform built with Django, featuring a responsive frontend using Bootstrap and seamless payment integration.
+
 
 Check out more on my [GitHub Repositories](#).
 

@@ -37,9 +37,9 @@ Check out more on my [GitHub Repositories](#).
 
 ## 📊 GitHub Stats:
 
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyanshuShakya&show_icons=true&theme=radical)
+![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D1VyAn5hUu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuShakya&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1VyAn5hUu&layout=compact&theme=radical)
 
 ---
 
